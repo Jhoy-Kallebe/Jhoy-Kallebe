@@ -25,15 +25,11 @@ Meu nome é Jhoy Kallebe Carvalho Fernandes, moro na cidade de Bom Jesus da Lapa
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jhoy-Kallebe&show_icons=true&theme=dracula&line_height=27" alt="Jhoy Kallebe github stats"/>
 </a>
 
-[portfolio]: https://jhoy-kallebe.github.io/Portfolio/src/app/
-[instagram]: https://www.instagram.com/jhoy_kallebe09//
-[linkedin]: https://www.linkedin.com/in/jhoy-kallebe-120791205/
-[gmail]: jhoykallebecontato@gmail.com
 <br>
 
 #### Contatos!
 
-[![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([portfolio]) 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([instagram])
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin])
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([gmail])
+[![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jhoy-kallebe.github.io/Portfolio/src/app/) 
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhoy_kallebe09/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhoy-kallebe-120791205/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jhoykallebecontato@gmail.com)
