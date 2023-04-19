@@ -1,6 +1,6 @@
 ### Oie devs 👋
 
-Meu nome é Jhoy Kallebe Carvalho Fernandes, moro na cidade de Bom Jesus da Lapa-BA e tenho 18 anos. Amo tecnologia e sou apaixonado por programação. Sempre buscando novos desafios e procurando problemas para resolver. Atualmente sou desenvolvedor front-end porém em busca de habilidades full stack.
+Meu nome é Jhoy Kallebe Carvalho Fernandes, moro na cidade de Bom Jesus da Lapa-BA e tenho 19 anos. Amo tecnologia e sou apaixonado por programação. Sempre buscando novos desafios e procurando problemas para resolver. Atualmente sou desenvolvedor front-end porém em busca de habilidades full stack.
 
 ## 🤓 Mais sobre mim
 
