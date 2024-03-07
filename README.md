@@ -1,6 +1,6 @@
 ### Oie devs 👋
 
-Meu nome é Jhoy Kallebe Carvalho Fernandes e atualmente moro em Goiânia-GO. Amo tecnologia e sou apaixonado por programação. Sempre buscando novos desafios e procurando problemas para resolver. Sou dev full stack e no momento curso Ciência da Computação na Universidade Federa de Goias. *Em busca de experiência profissional ;)*
+Meu nome é Jhoy Kallebe Carvalho Fernandes e atualmente moro em Goiânia-GO. Amo tecnologia e sou apaixonado por programação. Sempre buscando novos desafios e procurando problemas para resolver. Sou dev full stack e no momento curso Ciência da Computação na Universidade Federal de Goias. *Em busca de experiência profissional ;)*
 
 ## 🤓 Mais sobre mim
 
